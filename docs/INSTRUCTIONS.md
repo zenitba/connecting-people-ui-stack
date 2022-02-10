@@ -64,12 +64,15 @@ Deze opdracht gaat over alle fases van de DLC [ontwerpen](#ontwerpen) en [bouwen
 
 ## Criteria
 
-Deze opdracht is done als:
-
-[] Er is een Wireflow getekend met verschillende states van de UI-Stack uitgewerkt
-[] De states van de UI-Stack worden getoond als dat nodig is
-
-
 Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en hoe je een dynamische website kan maken waar bezoekers ook iets achter kunnen laten.	Het doel van deze sprint is binding tussen studenten creeeren. Met deze squad ga je het doen! Samen studeren, leren en elkaar helpen. En iets gezamenlijks maken met een database dingen. Een sneak peak naar de rest van het semester.
 
+Deze leertaak hoort bij het gedragscriterium:
+
+M: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving.
+
+Deze opdracht is done als:
+
+- [ ] Er is een Wireflow getekend waarin de verschillende states van de UI-Stack zijn uitgewerkt
+- [ ] De states van de UI-Stack worden opgevangen in Javascript en getoond als dat nodig is
+- [ ] De wireflow en code is gedocumenteerd in de Readme van de leertaak
 
