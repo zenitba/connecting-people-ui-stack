@@ -23,7 +23,7 @@ Opdracht: Ontwerp en bouw verschillende states van de UI-Stack
 
 
 
-Deze opdracht gaat over alle fases van de DLC [ontwerpen](#ontwerpen) en [bouwen](#bouwen).
+Deze opdracht gaat over de fases [ontwerpen](#ontwerpen) en [bouwen](#bouwen) van de DLC.
 
 
 
