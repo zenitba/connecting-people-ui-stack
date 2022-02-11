@@ -12,7 +12,7 @@ In het college _S07W1 - UI-Stack_ wordt behandeld wat de UI-Stack is en hoe je s
 
 ## Doel van deze opdracht
 
-Je leert wat de UI-Stack is en hoe je dit kan toepassen in een website die gebruik maakt van data.
+Leren hoe je verschillende states van de UI-Stack kan tonen in de interface.
 
 
 ## Werkwijze
