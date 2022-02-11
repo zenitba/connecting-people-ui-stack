@@ -87,6 +87,6 @@ Deze opdracht is done als:
 
 - [ ] Er is een Wireflow getekend waarin de verschillende states van de UI-Stack zijn uitgewerkt
 - [ ] Er is een Breakdown-schets met de techniek die nodig is voor het tonen van de states
-- [ ] De states van de UI-Stack worden opgevangen in Javascript en getoond als dat nodig is
+- [ ] De states van de UI-Stack worden opgevangen in HTML, CSS en/of JS  en getoond als dat nodig is
 - [ ] De wireflow en code is gedocumenteerd in de Readme van de leertaak
 
