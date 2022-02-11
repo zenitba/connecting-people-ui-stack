@@ -31,15 +31,10 @@ Deze opdracht gaat over de fases [ontwerpen](#ontwerpen) en [bouwen](#bouwen) va
 
 Voordat je begint met bouwen schets je eerst een Wireflow voor de interactie en een breakdown-schets voor de techniek.
 
-Teken een Wireflow met alle states van de UI-Stack die je wil tonen. Schets een Empty state, Loading state en/of Error state(s).
-
-Schets de breakdown waarin je de HTML, CSS en JS alvast bedenkt voor de states die je wil tonen.
-
-
 <details>
 <summary>Aanpak</summary>
 
-1. Schets een Wireflow met alle mogelijke output (schermen en states) die een gebruiker te zien krijgt
+1. Schets een Wireflow met alle states van de UI-Stack die je wil tonen. Schets een Empty state, Loading state en/of Error state(s).
 2. Schrijf onder elk scherm en state wat een gebruiker doet en wat de interface moet laten zien
 3. Maak dan een breakdown-schets van de techniek die je nodig hebt, geef aan welke HTML, CSS en JS je nodig hebt
 4. Welk HTML heb je nodig? Waar komt de HTMl voor de Empty State? En de Loading state?
