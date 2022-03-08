@@ -6,7 +6,7 @@ Ontwerp en bouw verschillende states van de UI-Stack.
 
 Deze leertaak hoort bij sprint 7 "Connect Your Tribe". Dit is een deeltaak die je individueel uitvoert.
 
-In het college _S07W1 - UI-Stack_ wordt behandeld wat de UI-Stack is en hoe je states van de UI-Stack kan bouwen.
+In het college _S07W1-02 - UI-Stack_ wordt behandeld wat de UI-Stack is en hoe je states van de UI-Stack kan bouwen.
 
 
 
