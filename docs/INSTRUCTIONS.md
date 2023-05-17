@@ -17,7 +17,7 @@ Leren hoe je verschillende states van de UI-Stack kan tonen in de interface.
 
 ## Werkwijze
 
-Schets met je team een wireflow van de real-time user story waar jullie aan werken. Schets verschillende states van de UI stack die je aan de gebruiker wil tonen en bedenk hoe je dit zou kunnen bouwen. 
+Schets met je team een wireflow van de real-time user story die jullie willen maken. Schets verschillende states van de UI stack die je aan de gebruiker wil tonen en bedenk hoe je dit zou kunnen bouwen. 
 
 
 Deze opdracht gaat over de [ontwerpfase](#ontwerpen) van de DLC.
