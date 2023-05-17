@@ -1,12 +1,12 @@
-# Connect Your Tribe - UI-Stack
+# Connecting People - UI-Stack
 
 Ontwerp en bouw verschillende states van de UI-Stack.
 
 ## Context
 
-Deze leertaak hoort bij sprint 7 "Connect Your Tribe". Dit is een deeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 7 "Connect Your Tribe". Dit is een deeltaak die je in een team uitvoert.
 
-In het college _S07W1-02 - UI-Stack_ wordt behandeld wat de UI-Stack is en hoe je states van de UI-Stack kan bouwen.
+In het college S11W1-02-UI-Stack wordt behandeld wat de UI-Stack is en hoe je states van de UI-Stack kan ontwerpen in een Wireflow.
 
 
 
@@ -17,32 +17,24 @@ Leren hoe je verschillende states van de UI-Stack kan tonen in de interface.
 
 ## Werkwijze
 
-Opdracht: Ontwerp en bouw verschillende states van de UI-Stack
-
-<img width="1180" alt="image" src="https://user-images.githubusercontent.com/1391509/153552195-31522b36-62bc-4e98-bf27-b3c994353583.png">
+Schets met je team een wireflow van de real-time user story waar jullie aan werken. Schets verschillende states van de UI stack die je aan de gebruiker wil tonen en bedenk hoe je dit zou kunnen bouwen. 
 
 
-
-Deze opdracht gaat over de fases [ontwerpen](#ontwerpen) en [bouwen](#bouwen) van de DLC.
+Deze opdracht gaat over de [ontwerpfase](#ontwerpen) van de DLC.
 
 
 
 ### Ontwerpen
 
-Voordat je begint met bouwen schets je eerst een Wireflow voor de interactie en een breakdown-schets voor de techniek.
+Ontwerp verschillende states van de UI-Stack
 
-<details>
-<summary>Aanpak</summary>
-
-1. Schets een Wireflow met alle states van de UI-Stack die je wil tonen. Schets een Empty state, Loading state en/of Error state(s).
-2. Schrijf onder elk scherm en state wat een gebruiker doet en wat de interface moet laten zien
-3. Maak dan een breakdown-schets van de techniek die je nodig hebt, geef aan welke HTML, CSS en JS je nodig hebt
-4. Welk HTML heb je nodig? Waar komt de HTMl voor de Empty State? En de Loading state?
+1. Schrijf de User Story die jullie gaan ontwerpen op een papier
+2. Bedenk en schets een Wireflow met alle states van de UI-Stack die je wil tonen
+3. Schrijf onder elk scherm/state wat een gebruiker doet en wat de interface moet laten zien
+4. Maak dan een breakdown-schets van de techniek die je nodig hebt, geef aan welke HTML, CSS en JS je nodig hebt
+5. Welk HTML heb je nodig? Waar komt de HTMl voor de UI-Stack states?
 5. Welke CSS heb je nodig voor de vormgeving van de states?
-6. Welke JS heb je nodig voor het laden van de data en het tonen van de states? Waar komt de code voor de loading state? Welke code heb je nodig voor Error states?
-  
-
-
+6. Welke JS heb je nodig voor het laden van de data en het tonen van de states? Welke code heb je nodig voor de UI-Stack states?
 
 
 #### Materiaal ontwerpfase
@@ -50,43 +42,20 @@ Voordat je begint met bouwen schets je eerst een Wireflow voor de interactie en 
 - [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
 - [UI-Stack - How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/)
 
-</details>
-
-### Bouwen
-
-In de bouwfase ga je de HTML, CSS en JS toepassen die je nodig hebt om Empty state, Loading state en/of Error state te tonen.
-
-<details>
-<summary>Aanpak</summary>
-
-1. Maak de HTML, CSS en JS om met een Fetch externe data te laden
-1. Maak de HTML en CSS voor de Empty state
-2. Maak de HTML, CSS en JS voor de Loading state
-3. Maak de HTML, CSS en JS voor de Error-state
-
-#### Materiaal bouwfase
-
-- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-- Hier staat een [tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) voor het laden van JSON data en het aanmaken van HTMl elementen.
-- Bij het laden van externe data kan de server verschillende [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) doorgeven, die kun je gebruiken om feedback te tonen.
-- [Error handling while using native fetch API in JavaScript](https://learnwithparam.com/blog/how-to-handle-fetch-errors/)
-
-</details>
-
 
 
 ## Criteria
 
-Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en hoe je een dynamische website kan maken waar bezoekers ook iets achter kunnen laten.	Het doel van deze sprint is binding tussen studenten creeeren. Met deze squad ga je het doen! Samen studeren, leren en elkaar helpen. En iets gezamenlijks maken met een database dingen. Een sneak peak naar de rest van het semester.
+Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omgeving door het opzetten van een real-time verbinding tussen client en server.
 
 Deze leertaak hoort bij het gedragscriterium:
 
-M: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving.
+P: Je schetst om gedachten en processen te verkennen en abstracte begrippen over te brengen
+
 
 Deze opdracht is done als:
 
 - [ ] Er is een Wireflow getekend waarin de verschillende states van de UI-Stack zijn uitgewerkt
 - [ ] Er is een Breakdown-schets met de techniek die nodig is voor het tonen van de states
-- [ ] De states van de UI-Stack worden opgevangen in HTML, CSS en/of JS  en getoond als dat nodig is
-- [ ] De wireflow en code is gedocumenteerd in de Readme van de leertaak
+- [ ] De Wireflow en Breakddown-schets is gedocumenteerd in de Readme van de leertaak
 
