@@ -4,7 +4,7 @@ Ontwerp en bouw verschillende states van de UI-Stack.
 
 ## Context
 
-Deze deeltaak hoort bij sprint 7 "Connect Your Tribe". Dit is een deeltaak die je in een team uitvoert.
+Deze deeltaak hoort bij sprint 11 "Connecting People". Dit is een deeltaak die je in een team uitvoert.
 
 In het college S11W1-02-UI-Stack wordt behandeld wat de UI-Stack is en hoe je states van de UI-Stack kan ontwerpen in een Wireflow.
 
