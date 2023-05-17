@@ -42,8 +42,10 @@ We begonnen met een wireflow schets met de verschillende states van de UI Stack 
 
 
 ## Bronnen📱
+
 Voor de breakdown schets hebben we onderzoek gedaan voor de Error State 
-[>chatgpt](https://chat.openai.com)
+
+>(https://chat.openai.com)
 
 ## Licentie 🌐
 
