@@ -28,13 +28,14 @@ Deze opdracht gaat over de [ontwerpfase](#ontwerpen) van de DLC.
 
 Ontwerp verschillende states van de UI-Stack
 
-1. Schrijf de User Story die jullie gaan ontwerpen op een papier
-2. Bedenk en schets een Wireflow met alle states van de UI-Stack die je wil tonen
-3. Schrijf onder elk scherm/state wat een gebruiker doet en wat de interface moet laten zien
-4. Maak dan een breakdown-schets van de techniek die je nodig hebt, geef aan welke HTML, CSS en JS je nodig hebt
-5. Welk HTML heb je nodig? Waar komt de HTMl voor de UI-Stack states?
-5. Welke CSS heb je nodig voor de vormgeving van de states?
-6. Welke JS heb je nodig voor het laden van de data en het tonen van de states? Welke code heb je nodig voor de UI-Stack states?
+1. Ga samen rond zitten ... 
+2. Schrijf eerst de User Story die jullie gaan ontwerpen op een papier
+3. Bedenk en schets een Wireflow met alle states van de UI-Stack die je wil tonen
+4. Schrijf onder elk scherm/state wat een gebruiker doet en wat de interface moet laten zien
+5. Maak dan een breakdown-schets van de techniek die je nodig hebt, overleg welke HTML, CSS en JS er nodig is
+6. Welk HTML heb je nodig? Waar komt de HTMl voor de UI-Stack states?
+7. Welke CSS heb je nodig voor de vormgeving van de states?
+8. Welke JS heb je nodig voor het laden en versturen van data en het tonen van de states? Welke code heb je nodig voor de UI-Stack states?
 
 
 #### Materiaal ontwerpfase
